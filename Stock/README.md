@@ -15,5 +15,26 @@ The aim of this project is to analyze how stocks react when they cross downwards
 - Trading volume: Trading volume grater than MA20 of that is defined as high trading volume
 
 ## Conclusion:
-- There is a high probability that when a stock closes below its 20-day moving average, it will eventually recover. However, the risk of not reaching the breakeven point is significant. Graphs depicting the relationship between the days taken to breakeven and the maximum drawdown suggest that if the drawdown exceeds 20%, there's a higher chance it will take a prolonged period to recover, or it might never reach the breakeven point at all.
+
+### Over Picture
+
+- **Recovery Rate**: Overall stocks have over an 85% chance to return to their previous levels.
+- **Recovery Time**: Typically, stocks take 20 days to recover. However, the maximum drawdown can be as high as 90%.
+- **Further Losses**: For stocks that do not recover, 50% of them will continue accumulating further losses, averaging around 40%.
+
+### Consideration of Trend
+
+- **Uptrend Recovery**: While there's a slightly higher recovery rate during an uptrend, it doesn't significantly affect the days to breakeven or the maximum drawdown.
+- **Unrecovered Cases in Downtrend**: Stocks in a downtrend tend to incur more losses when they don't recover.
+
+### Consideration of Trading Volume
+
+- **Recovery Rate**: A slightly higher recovery rate is observed with higher trading volume.
+- **Days to Breakeven**: Stocks with higher trading volume have a lower day to breakeven ratio.
+- **Unrecovered Cases**: Despite the aforementioned benefits, higher trading volume leads to more significant losses when stocks fail to recover.
+
+### Day to Breakeven vs Maximum drawdown
+
+- **Relationship**: No significant correlation between days to breakeven and maximum drawdown.
+- **Drawdown > 20%**: Stocks with a maximum drawdown greater than 20% often require more time to recover or might not recover at all.
 
