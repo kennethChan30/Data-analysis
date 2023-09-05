@@ -29,9 +29,9 @@ The aim of this project is to analyze how stocks react when they cross downwards
 
 ### Consideration of Trading Volume
 
-- **Recovery Rate**: A slightly higher recovery rate is observed with higher trading volume.
-- **Days to Breakeven**: Stocks with higher trading volume have a lower day to breakeven ratio.
-- **Unrecovered Cases**: Despite the aforementioned benefits, higher trading volume leads to more significant losses when stocks fail to recover.
+- **Recovery Rate**: A slightly higher recovery rate is observed with lower trading volume.
+- **Days to Breakeven**: Stocks with lower trading volume have a lower day to breakeven.
+- **Unrecovered Cases**: Despite the aforementioned benefits, lower trading volume leads to more significant losses when stocks fail to recover.
 
 ### Day to Breakeven vs Maximum drawdown
 
