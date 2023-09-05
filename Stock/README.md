@@ -4,6 +4,7 @@
 
 **Data:**
 - Retrive price data from yfinance api.
+
 **Objective:** 
 The aim of this project is to analyze how stocks react when they cross downwards through the moving average of 20 days. We are particularly interested in the relationship between this trend and trading volume.
 
