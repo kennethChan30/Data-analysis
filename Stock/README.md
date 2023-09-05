@@ -1,6 +1,6 @@
 # stock analysis stock
 
-## Project 1: Analysis of crossing EM 20 with relationship of trend and trading volume
+## Project 1: Analysis of crossing EMA 20 with relationship of trend and trading volume
 
 **Data:**
 - Retrive price data from yfinance api.
