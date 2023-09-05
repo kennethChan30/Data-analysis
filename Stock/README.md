@@ -2,6 +2,31 @@
 
 ## Project 1: Analysis of crossing EM 20 with relationship of trend and trading volume
 
+**Data:**
+- Retrive price data from yfinance api.
+- Stocks composition
+Sector
+Commercial Services       22
+Communications             3
+Consumer Durables         14
+Consumer Non-Durables     13
+Consumer Services         20
+Distribution Services      7
+Electronic Technology     32
+Energy Minerals           10
+Finance                   87
+Health Services            9
+Health Technology         92
+Industrial Services       12
+Miscellaneous              3
+Non-Energy Minerals        9
+Process Industries        16
+Producer Manufacturing    27
+Retail Trade              16
+Technology Services       51
+Transportation            12
+Utilities                 10
+
 **Objective:** 
 The aim of this project is to analyze how stocks react when they cross downwards through the moving average of 20 days. We are particularly interested in the relationship between this trend and trading volume.
 
