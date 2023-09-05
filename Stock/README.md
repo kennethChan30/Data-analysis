@@ -1,4 +1,4 @@
-# stock analysis stock
+# Stocks analysis
 
 ## Project 1: Analysis of crossing EMA 20 with relationship of trend and trading volume
 
